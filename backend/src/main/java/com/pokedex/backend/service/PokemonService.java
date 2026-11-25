@@ -2,9 +2,12 @@ package com.pokedex.backend.service;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
 import com.pokedex.backend.model.Pokemon;
 import com.pokedex.backend.repository.PokemonRepository;
 
+@Service 
 public class PokemonService {
     
     @Autowired 
