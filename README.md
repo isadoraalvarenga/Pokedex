@@ -83,3 +83,5 @@ Pokedex/
 | `POST` | `/api/pokemons` | Cadastra um novo Pokémon |
 | `PUT` | `/api/pokemons/{id}` | Atualiza os dados de um Pokémon existente |
 | `DELETE` | `/api/pokemons/{id}` | Remove um Pokémon pelo ID |
+
+-Repositório e atividade utilizadas para estudos de código, não foquei em commits constantes!
